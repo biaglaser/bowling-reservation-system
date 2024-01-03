@@ -1,4 +1,3 @@
-# Y2_2022_21033_
 # Bowling Alley - reservation system
 
 ## Introduction
