@@ -1,0 +1,29 @@
+2022-05-06 13:27:46.891971
+Welcome to our bowling reservation system!
+Do you have an account with us? Type in:
+1- to log in
+2- to sign up
+3- to exit program
+Enter your email: Enter your password: You are now logged in as test test2
+Choose an option!
+1- make new reservation
+2- check current reservations
+3- cancel a current reservation
+4- exit the program
+Please type the day you would like to book. In format: dd/mm/yyyy
+Please type the hour you would like to book (from 10-22)
+There are no available lanes at this date and time... please choose another date/time.
+Please type the day you would like to book. In format: dd/mm/yyyy
+Please type the hour you would like to book (from 10-22)
+There are no available lanes at this date and time... please choose another date/time.
+Please type the day you would like to book. In format: dd/mm/yyyy
+Please input a valid date.
+Please type the day you would like to book. In format: dd/mm/yyyy
+Please input a valid date.
+Please type the day you would like to book. In format: dd/mm/yyyy
+Please input a valid date.
+Please type the day you would like to book. In format: dd/mm/yyyy
+Please input a valid date.
+Please type the day you would like to book. In format: dd/mm/yyyy
+Please input a valid date.
+Please type the day you would like to book. In format: dd/mm/yyyy

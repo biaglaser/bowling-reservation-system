@@ -1,0 +1,33 @@
+2022-05-06 13:27:46.024452
+Welcome to our bowling reservation system!
+Do you have an account with us? Type in:
+1- to log in
+2- to sign up
+3- to exit program
+Enter your email: Enter your password: Incorrect password!
+Enter your password: You are now logged in as test test2
+Choose an option!
+1- make new reservation
+2- check current reservations
+3- cancel a current reservation
+4- exit the program
+You have a valid reservation on the day 2022-06-03 at 15:00:00.
+You have a valid reservation on the day 2022-11-22 at 15:00:00.
+You have a valid reservation on the day 2022-11-22 at 15:00:00.
+You have a valid reservation on the day 2022-11-22 at 10:00:00.
+You have a valid reservation on the day 2022-06-02 at 20:00:00.
+You have a valid reservation on the day 2022-06-02 at 20:00:00.
+You have a valid reservation on the day 2022-06-02 at 21:00:00.
+You have a valid reservation on the day 2022-06-02 at 21:00:00.
+You have a valid reservation on the day 2022-06-03 at 15:00:00.
+You have a valid reservation on the day 2022-06-03 at 17:00:00.
+You have a valid reservation on the day 2022-06-03 at 17:00:00.
+You have a valid reservation on the day 2022-06-02 at 13:00:00.
+You have 12 current reservation(s) in total.
+Choose another action!
+1- make new reservation
+2- check current reservations
+3- cancel a current reservation
+4- exit the program
+Saving changes to test_alley's file...
+Thank you for using the program! See you next time! Exiting...
